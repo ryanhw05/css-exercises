@@ -1,0 +1,19 @@
+p {
+    background-color:pink;
+    font: "Verdana", "DejaVu Sans", sand-serif;
+}
+
+.second {
+    color:blue;
+    font-size:36px;
+}
+
+p.third {
+    font-size:24px;
+}
+
+.fourth {
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
